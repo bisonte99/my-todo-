@@ -3,5 +3,6 @@ drive to work
 going to work
 clean the code
 Fishing
-New order
-Master Python
+Go homeMaster Python
+Home timego
+Add last todo
